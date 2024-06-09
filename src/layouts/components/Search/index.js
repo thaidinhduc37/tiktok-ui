@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef } from 'react';
-import axios from 'axios';
 import classNames from 'classnames/bind';
 import HealessTippy from '@tippyjs/react/headless';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
